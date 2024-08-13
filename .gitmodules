@@ -1,0 +1,4 @@
+[submodule "mathesis/public"]
+	path = mathesis/public
+	url = https://github.com/HanielUlises/mathesis.github.io.git
+	branch = main

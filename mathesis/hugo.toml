@@ -1,0 +1,5 @@
+baseURL = "https://mathesis.github.io/"
+languageCode = "en-us"
+title = "Haniel Ulises' notations"
+
+theme = "hugo-theme-ladder"
